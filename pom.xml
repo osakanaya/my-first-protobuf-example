@@ -44,8 +44,8 @@
 				</configuration>
 				<executions>
 					<execution>
-							<goal>compile</goal>
 						<goals>
+							<goal>compile</goal>
 							<goal>compile-custom</goal>
 						</goals>
 					</execution>
